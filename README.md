@@ -1,5 +1,6 @@
 # feedback
 Feedback tool similar to Google's.
+with feedback buttons.
 
 This is a very early alpha version, with a couple of [known issues](#known-issues), a complete rewrite. Should be more performant and less buggy (hopefully).
 
